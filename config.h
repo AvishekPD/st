@@ -6,6 +6,8 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "JetBrains Mono:size=12:antialias=true";
+static char *font2[] ={ "JoyPixels:pixelsize=12:antialias=true:autohinting=true", 
+			"MesloLGS NF:size=12:antialias=true" };
 static int borderpx = 6;
 
 /*
