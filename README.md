@@ -9,7 +9,7 @@
 </p>
 
 <p alight="center">
-	<img width="100"
+	<img width="1000"
 	 alt="preview"
 	 src="./picture.jpg">
 </p>
