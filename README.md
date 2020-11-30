@@ -1,6 +1,6 @@
 ## St - Simple Terminal built By Kiriyama
 
-#Features
+<b>Features</b>
 - Not bloated, yet.
 - Simple, with multi font and emoji support.
 - Transparent, litreally.
