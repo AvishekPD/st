@@ -7,7 +7,11 @@
  */
 static char *font = "JetBrains Mono:size=12:antialias=true";
 static char *font2[] ={ "JoyPixels:pixelsize=12:antialias=true:autohinting=true", 
-			"MesloLGS NF:size=12:antialias=true" };
+			"MesloLGS NF:size=12:antialias=true",
+			"Font Awesome 5 Free:pixelsize=13",
+			"Font Awesome 5 Brands:pixelsize=13",
+			"Font Awesome 5 Free:pixelsize=13:style=solid", 
+};
 static int borderpx = 6;
 
 /*
